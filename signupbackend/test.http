@@ -1,0 +1,11 @@
+POST http://localhost:4000/app/sigup
+Content-Type: application/json
+
+{
+    "fullName": "Rares",
+    "username":"raresarciri",
+    "email":"rares@mail.com",
+    "password":"solent123"
+
+
+}
